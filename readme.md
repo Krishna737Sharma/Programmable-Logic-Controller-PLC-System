@@ -7,21 +7,16 @@ This repository contains several projects that I have completed to enhance and h
 
 ### [SortingPlant](/SortingPlant)
 
-<p align="center">
-  <img src="SortingPlant/images/sortplant_constantspeed_demo.gif"/>
-</p>
+![sortplant_constantspeed_demo](https://github.com/user-attachments/assets/df0f040c-c35b-4456-925c-d16d69773271)
 
 ### [TrafficLightControl](/TrafficLightControl)
 
-<p align="center">
-  <img src="TrafficLightControl/images/trafficlightdemo.gif"/>
-</p>
+![trafficlightdemo](https://github.com/user-attachments/assets/16cf5542-7f4d-4932-acdc-19744500a1f4)
 
 ### [IoTProjects](/IotProject)
-<p align="center">
-  <img src="IotProject/images/01_getTime.gif"/>
-  <b>Get Time Demo</b>
-</p>
+
+![01_getTime](https://github.com/user-attachments/assets/2defccab-89e1-4cf8-86a1-8e29aac7c722)
+
 </br>
 </br>
 <p align="center">
