@@ -3,9 +3,7 @@ This repository contains several projects that I have completed to enhance and h
 
 ### [BasementLightControl](/BasementLightControl)
 
-<p align="center">
-  <img src="BasementLightControl/images/basementlightdemo.gif"/>
-</p>
+![basementlightdemo](https://github.com/user-attachments/assets/b043e62e-1bf6-42a3-a0bc-424e45f79f1b)
 
 ### [SortingPlant](/SortingPlant)
 
