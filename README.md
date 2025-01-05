@@ -71,7 +71,7 @@ Below is a representation of the basic components of a PLC system:
 
 ## Diagram
 
-![PLC Hardware Block Diagram](./images/plc_block_diagram.png)
+![5 3](https://github.com/user-attachments/assets/cc9225ce-7e07-475a-a6f2-4b1d488bb47c)
 
 ## Conclusion
 PLCs are essential components in automation and industrial control, offering flexibility, reliability, and ease of programming. This document serves as a foundational overview of PLC hardware, operations, and benefits.
