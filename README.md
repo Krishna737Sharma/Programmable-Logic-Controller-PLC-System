@@ -1,5 +1,7 @@
 # Programmable Logic Controller (PLC) System
 
+![a](https://github.com/user-attachments/assets/25cbb33c-8722-4a7c-ad74-d3c6d72119db)
+
 ## Overview
 A Programmable Logic Controller (PLC) is a specialized computer widely used in industrial and commercial control applications. It monitors inputs, makes decisions based on a stored program, and controls outputs to automate processes or machines. This document provides an introduction to the basic components, operations, and advantages of PLCs.
 
