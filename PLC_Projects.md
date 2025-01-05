@@ -41,13 +41,6 @@ To implement a 3-way switch control logic in a PLC program for a Basement Contro
 2. WinCC RT Advanced (TIA Portal V16 option) </br>
 3. PLCSIM </br>
 
-### Demo <a name="demo"></a>
-<p align="center">
-  <img src="images/basementlightdemo.gif"/>
-  <b>Functional Demo</b>
-</p>
-</br>
-</br>
 
 ### [SortingPlant](/SortingPlant)
 
